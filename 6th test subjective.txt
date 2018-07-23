@@ -1,0 +1,13 @@
+26. Describe any four Page directives in Angular.
+3 points
+
+27. Write a Java servlet code to validate the Username and Password field values.
+3 points
+
+28. Create a JSP Page to show the result of all mathematical operations. Read numbers from user through HTML Page.
+3 points
+
+29. Explain the key components of Angular 2?
+3 points
+
+30. How can HTML Output be prevented from being cached?
